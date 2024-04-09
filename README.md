@@ -8,8 +8,8 @@ AagingPEPred is a machine learning-based tool designed to predict anti-aging pep
 The project is developed at the Computational Genomics and Transcriptomics Lab (CG&T), Department of Biotechnology, IIT Hyderabad
 
 # Developers
-Kunjulakshmi R
-Dedeepya Mullapudi
-Avik Sengupta
-Kavita Kundal
+Kunjulakshmi R <br>
+Dedeepya Mullapudi <br>
+Avik Sengupta <br>
+Kavita Kundal <br>
 Dr. Rahul Kumar (Principal Investigator)
